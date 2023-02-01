@@ -39,3 +39,4 @@ tech needed --> vs code, jupyter, python libraries: dash, dash_bootstrap_compone
 
 ## Visualizations at a Glance
 Add images of best visuals here
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/117112928/216142846-145616fd-b2d3-4b7a-ada5-95e957aad132.png">
