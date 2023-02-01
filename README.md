@@ -39,6 +39,6 @@ tech needed --> vs code, jupyter, python libraries: dash, dash_bootstrap_compone
 
 ## Visualizations at a Glance
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/117112928/216142846-145616fd-b2d3-4b7a-ada5-95e957aad132.png">
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/117112928/216150890-25acaf94-0b7b-4c2f-8db3-4dc77ebbfc40.png">
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/117112928/216150804-c44a74ce-7107-43bc-b2b4-01c9abe92129.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/117112928/216150890-25acaf94-0b7b-4c2f-8db3-4dc77ebbfc40.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/117112928/216150804-c44a74ce-7107-43bc-b2b4-01c9abe92129.png">
 
