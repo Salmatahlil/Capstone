@@ -35,7 +35,7 @@
 - What is the Energy Intensity Per Capita and by GDP of Top 5 Energy Consumers?
 
 ## Tech Stack
-Add tech needed --> vs code, jupyter, python libraries needed, etc.
+tech needed --> vs code, jupyter, python libraries: dash, dash_bootstrap_components, plotly.express, pandas, numpy, matplotlib, seaborn
 
 ## Visualizations at a Glance
 Add images of best visuals here
