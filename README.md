@@ -23,6 +23,16 @@
   - time-series-forecasting-with-xgboost.ipynb: The code for our machine learning model related to storm data and predicting various factors including property damage or injuries.
   - Technical_Report.pdf - to be added
   - Presentation_Slides.pdf - to be added
+## Inital Questions 
+- What is the overall trend of emissions in relation to severe weather events over a certain period of time? What types of storms are most affected?
+- How does increase or decrease in storms affect overall damage caused by storms to property? To crops?
+- What is the distribution of CO2 emissions by continent/region? 
+- What are the correlation between different fossil fuel sources and other factors with co2 emissions  
+- Which countries are highest in carbon emissions, has this changed within recent years ?  ( top 10 countries)
+- How does temperature change over time and how does it relate to carbon emissions?
+- How has CO2 emissions changed in the top 5 countries over time? As GDP increases or decreases does this impact CO2 emissions? 
+- What are the most consumed energy types and changes in energy consumption patterns in the United States? 
+- What is the Energy Intensity Per Capita and by GDP of Top 5 Energy Consumers?
 
 ## Tech Stack
 Add tech needed --> vs code, jupyter, python libraries needed, etc.
